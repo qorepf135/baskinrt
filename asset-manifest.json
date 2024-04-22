@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baskinrt/static/css/main.aba27f79.css",
+    "main.js": "/baskinrt/static/js/main.535b2748.js",
+    "static/js/453.79c9fce3.chunk.js": "/baskinrt/static/js/453.79c9fce3.chunk.js",
+    "static/media/logo.svg": "/baskinrt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baskinrt/index.html",
+    "main.aba27f79.css.map": "/baskinrt/static/css/main.aba27f79.css.map",
+    "main.535b2748.js.map": "/baskinrt/static/js/main.535b2748.js.map",
+    "453.79c9fce3.chunk.js.map": "/baskinrt/static/js/453.79c9fce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba27f79.css",
+    "static/js/main.535b2748.js"
+  ]
+}
